@@ -189,7 +189,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*WARDOGS · Updated 2026-11-16 · Shared under the MIT License*
+*WARDOGS · Updated 2026-11-17 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-16*
+*Last updated: 2026-11-17*
